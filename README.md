@@ -6,8 +6,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/birkan-cemil-abacı-9b36b224a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="birkan-cemil-abacı-9b36b224a" height="30" width="40" /></a>
-<a href="https://instagram.com/biromedic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="biromedic" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/birkan-cemil-abacı-9b36b224a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="birkan-cemil-abacı-9b36b224a" height="30" width="40" /></a>
+<a href="https://instagram.com/biromedic" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="biromedic" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
