@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Birkan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biromedic&label=Profile%20views&color=0e75b6&style=flat" alt="biromedic" /> </p>
 
-- 🌱 I’m currently learning **JS,HTML,CSS and C++ in my universty**
-- 🌱 I’m currently working as a freelance web developer.
+- 🌱 I’m currently learning **JS,HTML,CSS and Spring**
+- 🌱 I’m currently working as a R&D intern at the same time Frontend Developer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
