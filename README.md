@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Birkan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biromedic&label=Profile%20views&color=0e75b6&style=flat" alt="biromedic" /> </p>
 
-- 🌱 I’m currently learning ** Assembly and Spring**
+- 🌱 I’m currently learning ** React and Spring**
 - 🌱 I’m currently working as a R&D intern at the same time Frontend Developer.
 
 <h3 align="left">Connect with me:</h3>
