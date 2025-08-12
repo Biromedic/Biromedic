@@ -9,7 +9,7 @@
   - Documenting APIs with **Swagger** for better collaboration and versioning
 
 - ⚡ I'm also involved in enhancing **user experience** through personalized recommendations, adding dynamic **workout plans**, and designing a scalable architecture with my team.
-
+- 🔗 **For More:** [Portfolio & Projects](https://portfolio-biromedics-projects.vercel.app/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/birkan-cemil-abacı-9b36b224a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="birkan-cemil-abacı-9b36b224a" height="30" width="40" /></a>
@@ -57,4 +57,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
 </p>
+
 
